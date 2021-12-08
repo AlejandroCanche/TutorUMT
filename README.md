@@ -18,8 +18,8 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 ## Pre-requisitos 📋
 
-### Realizar previamente estos los siguientes pasos: ⚙️
-_Cosas necesitas para realizar este modelo de interacción de voz personalizado_
+### Realizar previamente los siguientes pasos: ⚙️
+_Cosas que necesitas para realizar este modelo de interacción de voz personalizado_
 
 1. Crear cuenta de desarrollador de Amazon 
 2. Descargar el .zip de este repositorio
