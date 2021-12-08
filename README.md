@@ -41,7 +41,6 @@ _Que cosas necesitas para realizar este modelo de interacción de voz personaliz
 
 https://user-images.githubusercontent.com/71792187/145143030-2784798e-c59a-48b7-a042-ca78807a2cb0.mp4
 
-
-# Autor ✒️
+## Autor ✒️
 
 * **Alejandro Canche** - *Diseño y desarrollo* - [AlejandroCanche](https://github.com/AlejandroCanche)
